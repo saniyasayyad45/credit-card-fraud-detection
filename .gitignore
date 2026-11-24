@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dataset files - do not upload
+data/*.csv
+data/*.zip
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
